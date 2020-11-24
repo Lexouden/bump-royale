@@ -1,0 +1,34 @@
+{
+  "name": "bump-royale",
+  "version": "1.0.0",
+  "description": "Bump royale module for Discord bots",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexouden/bump-royale.git"
+  },
+  "keywords": [
+    "Discord",
+    "bot",
+    "Discord.js"
+  ],
+  "author": "Lexouden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lexouden/bump-royale/issues"
+  },
+  "homepage": "https://github.com/Lexouden/bump-royale#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "discord.js-commando": "^0.10.0",
+    "events": "^3.2.0"
+  }
+}
